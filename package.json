@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/DulceGC/Node.js#readme",
   "dependencies": {
-    "cowsay": "^1.4.0"
+    "cowsay": "^1.5.0"
   }
 }
